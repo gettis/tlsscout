@@ -23,5 +23,5 @@ By default ALLOW_ANONYMOUS_VIEWING is True which means that the information
 collected by the tlsscout instance is public without logging in. Set to false
 to require login to see stuff.
 
-By default ENABLE_SIGNUP is true which means new accounts can be created. Change
+By default ENABLE_SIGNUP is true which means new accounts can be created. Changes
 to False to prevent new signups.
